@@ -10,7 +10,7 @@ a {
 }
 
 
-.header {		/* Top header, green background, not fixed */
+#header {		/* Top header, green background, not fixed */
 	padding: 5px;
 	background-color: white;
 	color: black;
@@ -20,7 +20,7 @@ a {
 	
 }
 
-.sidenav {		/* Fixed sidebar, stays at the top, auto length */
+#sidenav {		/* Fixed sidebar, stays at the top, auto length */
 	height: 100%;
 	width: 160px;
 	background-color: white;/*#2d8659;*/
@@ -31,7 +31,7 @@ a {
 	color: black;
 }
 
-.sidenav a {	/* Formatting the links on the sidebar */
+#sidenav a {	/* Formatting the links on the sidebar */
 	color: black;
 	padding: 6px 8px 20px 16px;
 	font-size: 110%;	
